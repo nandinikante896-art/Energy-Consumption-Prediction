@@ -33,7 +33,7 @@ st.divider()
 # LOAD MODEL
 # =====================================================
 
-MODEL_PATH = Path("models/energy_consumption_model.pkl")
+MODEL_PATH = Path("energy_consumption_model.pkl")
 
 if not MODEL_PATH.exists():
 
